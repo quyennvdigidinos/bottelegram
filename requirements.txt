@@ -1,0 +1,5 @@
+telebot
+pyTelegramBotAPI
+pandas
+python-binance==0.7.9
+twisted 
